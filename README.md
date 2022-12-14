@@ -1,9 +1,9 @@
 ### YeonJuAn 👋
 
 Currently, I'm ~
-- helping triage issues and fix bugs in the [ESLint](https://github.com/eslint/eslint) project.
+- helping triage issues and fix bugs in [ESLint](https://github.com/eslint/eslint) project.
 - reviewing the Korean translation of the typescript website in [TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations).
-- contributing to fixing bugs in the [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint).
+- contributing to fixing bugs in [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint).
 
 ### Work experience
 
