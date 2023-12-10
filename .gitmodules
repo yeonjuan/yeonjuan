@@ -1,0 +1,3 @@
+[submodule "dev-blog"]
+	path = dev-blog
+	url = https://github.com/yeonjuan/dev-blog.git

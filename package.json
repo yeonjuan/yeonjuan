@@ -1,0 +1,17 @@
+{
+  "name": "yeonjuan",
+  "packageManager": "yarn@3.6.0",
+  "scripts": {
+    "build": "node src/build"
+  },
+  "devDependencies": {
+    "@types/highlight.js": "^10.1.0",
+    "@types/node": "^20.10.4",
+    "glob": "^10.3.10",
+    "handlebars": "^4.7.8",
+    "highlight.js": "^11.9.0",
+    "marked": "^11.0.1",
+    "marked-highlight": "^2.0.9",
+    "typescript": "^5.3.3"
+  }
+}
