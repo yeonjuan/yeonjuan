@@ -1,16 +1,14 @@
-### YeonJuAn 👋
+### Hi, I'm YeonJuAn 👋
 
-Currently, I'm ~
-- helping triage issues and fix bugs in [ESLint](https://github.com/eslint/eslint) project.
-- reviewing the Korean translation of the typescript website in [TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations).
-- contributing to fixing bugs in [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint).
+- Frontend Developer at LINE Plus (2021.09 ~ now)
+- Frontend Developer at Kakao (2019.01 ~ 2021.09)
+- [Blog](https://github.com/yeonjuan/dev-blog) 
 
-### Work experience
+### Projects
+| Name | Description | Downloads | Stars |
+| --- | --- | --- | --- |
+|[es-html-parser](https://github.com/yeonjuan/es-html-parser) | HTML parser for static analysis | <a href="https://www.npmjs.com/package/es-html-parser"><img src="https://img.shields.io/npm/dw/es-html-parser"/></a> | <img src="https://img.shields.io/github/stars/yeonjuan/es-html-parser?style=flat"/> |
+| [html-eslint](https://github.com/yeonjuan/html-eslint) | ESLint plugin for linting HTML |<a href="https://www.npmjs.com/package/@html-eslint/eslint-plugin"><img src="https://img.shields.io/npm/dw/@html-eslint/eslint-plugin"/></a> |<img src="https://img.shields.io/github/stars/yeonjuan/html-eslint?style=flat"/> |
+| [parse-git-diff](https://github.com/yeonjuan/parse-git-diff) | Git diff output parser | <a href="https://www.npmjs.com/package/parse-git-diff"><img src="https://img.shields.io/npm/dw/parse-git-diff"/></a> |<img src="https://img.shields.io/github/stars/yeonjuan/parse-git-diff?style=flat"/> |
 
-- LINE Plus (2021.09 ~ now)
-- Kakao (2019.01 ~ 2021.09)
 
-### Active Projects
-- [dev-blog](https://github.com/yeonjuan/dev-blog) 
-- [es-html-parser](https://github.com/yeonjuan/es-html-parser)
-- [html-eslint](https://github.com/yeonjuan/html-eslint)
