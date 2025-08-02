@@ -15,3 +15,4 @@
 | Name | Description | Link |
 | --- | --- | --- |
 | [Back Attacker](https://github.com/yeonjuan/js13k-2019-back) | A game submitted to JS13k 2019, placed 7th. | [Play](https://js13kgames.com/games/back-attacker)  |
+| [Love 3D Icon](https://love3dicon.com/) | You can download 3D icons for free. | [Link](https://love3dicon.com/) |
